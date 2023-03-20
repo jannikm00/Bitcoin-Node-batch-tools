@@ -5,4 +5,4 @@ Start everything using the Bitcoin Node script, it starts the "Bitcoin Node.bat"
 And it starts "Update.bat" wich contains the bitcoin-cli -getinfo command and the dir D:DATA\blocks\ /d /s command.
 Change D:DATA\blocks\ to wherever you have the Blockchain saved.
 "Update.bat" runs the Blockchain info command several times and then runs the storage space command several times and starts over.
-![image](https://user-images.githubusercontent.com/72359748/226470809-0fc31d98-8b5f-48ab-af75-944d669f63c5.png)
+![image](https://user-images.githubusercontent.com/72359748/226470980-213fc688-24ce-481a-93c8-ffe5918a85af.png)
