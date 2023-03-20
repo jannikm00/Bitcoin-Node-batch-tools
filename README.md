@@ -8,8 +8,6 @@ Change D:DATA\blocks\ to wherever you have the Blockchain saved.
 ![image](https://user-images.githubusercontent.com/72359748/226470980-213fc688-24ce-481a-93c8-ffe5918a85af.png)
 The file structure:
 
-
-
 ![image](https://user-images.githubusercontent.com/72359748/226471366-9edf3ae1-aaa8-4c11-8387-f5b833dce278.png)
 
 
